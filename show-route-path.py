@@ -1,4 +1,11 @@
 
+'''
+Simple python code that uses CARLA to
+spawn a vehicle and show projections of the path/route
+the vehicle is taking. The vehicle is running in autopilot
+mode, so this basically shows the way points within a certain
+radius of the cars location.
+'''
 
 # Imports required to run the simulation
 import glob
